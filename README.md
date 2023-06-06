@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Noelia Aparicio</h1>
 <h3 align="center">An enthusiast Data Scientist from Buenos Aires, Argentina.</h3>
 
-- 🔭 I’m currently working on **a new FrontEnd project!**
+- 🔭 I’m currently working on **a new project!**
 
-- 🌱 I’m currently learning **Data Engineering, AI, UX/UI and React**
+- 🌱 I’m currently learning **Data Engineering and R**
 
 - 👨‍💻 All of my projects are available at [https://github.com/noeaparicio](https://github.com/noeaparicio)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Power BI, Tableau, Data Studio, Business Analytics, Excel and Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Power BI, Tableau, Data Studio, Business Analytics, Excel and Basic Python**
 
 - 📫 How to reach me **aparicionoeliag92@gmail.com**
 
